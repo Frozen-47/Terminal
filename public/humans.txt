@@ -1,0 +1,45 @@
+    ______                          
+   / ____/________  ____  ___  ____ 
+  / /_  / ___/ __ \/_  / / _ \/ __ \
+ / __/ / /  / /_/ / / /_/  __/ / / /
+/_/   /_/   \____/ /___/\___/_/ /_/ 
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site (humanstxt.org).
+
+_______________________________________________________________________________
+
+DEVELOPER & DESIGNER
+
+Sabareesh
+Full Stack & Systems Developer
+
+Location: Erode, Tamil Nadu, India
+Website:  https://frozenn.in
+GitHub:   https://github.com/Frozen-47
+Email:    sabareeshgm47@gmail.com
+
+_______________________________________________________________________________
+
+TECHNOLOGY
+
+React 18
+TypeScript
+Vite
+Tailwind CSS
+Lucide Icons
+Open-Meteo & Google DoH APIs
+
+_______________________________________________________________________________
+
+FONTS
+
+Inter
+JetBrains Mono / Fira Code
+System Monospace
+
+_______________________________________________________________________________
+
+THANKS
+
+To everyone exploring this interactive terminal portfolio!
